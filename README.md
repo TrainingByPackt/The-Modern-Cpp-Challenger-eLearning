@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/pulls)
 
 # The Modern Cpp Challenger eLearning
-
+Each problem presented in this course is unique and tests your knowledge of the language and your ability to come up with the best solutions. With varying levels of difficulty, you'll be faced with a wide variety of challenges that will enable you to learn some latest notable C++ features.
 
 ## What you will learn
 * Serialize and deserialize JSON and XML data
