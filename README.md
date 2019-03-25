@@ -1,17 +1,10 @@
-# The-Modern-Cpp-Challenger-eLearning
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
+
+# The Modern Cpp Challenger eLearning
 Become an expert C++ programmer by solving real-world programming problems
-
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)]
-(https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)]
-(https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)]
-(https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
-(https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
-
-# The-Modern-Cpp-Challenger-eLearning
-Think out-of-the-box and come up with solutions for these unique C++ programming challenges.
 
 ## What you will learn
 * Serialize and deserialize JSON and XML data
