@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/The-Modern-Cpp-Challenger-eLearning/pulls)
 
 # The Modern Cpp Challenger eLearning
 
