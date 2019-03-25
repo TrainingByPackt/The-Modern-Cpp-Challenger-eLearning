@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
 
 # The Modern Cpp Challenger eLearning
-Become an expert C++ programmer by solving real-world programming problems
+
 
 ## What you will learn
 * Serialize and deserialize JSON and XML data
